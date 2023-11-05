@@ -2374,8 +2374,8 @@ fadeIn {  from {
   font-weight: bold;
 }
 @font-face {
-  font-family: 'Great Vibes';
-  src: url(https://github.com/Michellet1802/BodaMichJuan/blob/592c15ec93eb51c1b270e3430d5a44da13e26273/fonts/GreatVibes-Regular.otf) format("otf");
+  font-family: 'GreatVibes';
+  src: url(https://raw.githubusercontent.com/Michellet1802/BodaMichJuan/592c15ec93eb51c1b270e3430d5a44da13e26273/fonts/GreatVibes-Regular.otf) format("opentype");
   font-style: normal;
 }
 
@@ -2578,7 +2578,7 @@ img {
   left: 0;
 }
 .ag-timeline-card_img {
-  font-family:'Great Values','Arial';
+  font-family:'GreatVibes','Arial';
   
 }
 .ag-timeline-card_info {

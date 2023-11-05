@@ -2373,6 +2373,11 @@ fadeIn {  from {
   font-style: normal;
   font-weight: bold;
 }
+@font-face {
+  font-family: 'Great Vibes';
+  src: url(https://github.com/Michellet1802/BodaMichJuan/blob/592c15ec93eb51c1b270e3430d5a44da13e26273/fonts/GreatVibes-Regular.otf) format("otf");
+  font-style: normal;
+}
 
 img {
   max-width: 100%;
@@ -2573,6 +2578,7 @@ img {
   left: 0;
 }
 .ag-timeline-card_img {
+  font-family:'Great Values','Arial';
   
 }
 .ag-timeline-card_info {

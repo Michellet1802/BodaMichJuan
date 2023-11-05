@@ -2375,7 +2375,7 @@ fadeIn {  from {
 }
 @font-face {
   font-family: 'Great Vibes';
-  src: url(https://raw.githubusercontent.com/Michellet1802/BodaMichJuan/592c15ec93eb51c1b270e3430d5a44da13e26273/fonts/GreatVibes-Regular.otf) format("opentype");
+  src: url(https://raw.githubusercontent.com/Michellet1802/BodaMichJuan/592c15ec93eb51c1b270e3430d5a44da13e26273/fonts/GreatVibes-Regular.otf) format("embedded-opentype");
   font-style: normal;
 }
 
